@@ -4,6 +4,9 @@
 ## Descripción del Proyecto
 Esta aplicación web interactiva está construida utilizando **Streamlit**, **Pandas** y **Plotly Express**. Su propósito principal es facilitar el análisis visual y la exploración del conjunto de datos de anuncios de venta de vehículos (`vehicles_us.csv`), donde los usuarios podrán visualizar de forma dinámica la distribución y correlaciones entre el kilometraje (odómetro) y el precio.
 
+Puedes acceder a la aplicación desplegada en Render mediante el siguiente enlace:
+👉 https://sprint7-proyecto-sddx.onrender.com 
+
 ## Funcionalidades
 - **Visualización mediante casillas de verificación**:
   - **Construir un histograma**: Permite analizar la distribución de frecuencias de la columna `odometer` (kilometraje de los vehículos).
